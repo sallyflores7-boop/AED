@@ -1,5 +1,4 @@
 # AED GRUPO 6
-SALLYFLORES7-BOOP
-1534830
-FLORES
-ROCHA
+Repositorio de la materia algoritmos y Estructura de datos 
+## 1er ejercicio
+
